@@ -1,0 +1,14 @@
+{
+  "name": "homework-1",
+  "version": "1.0.0",
+  "description": "Completed homework-1",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "parcel task_1.html task_2.html task_3.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
